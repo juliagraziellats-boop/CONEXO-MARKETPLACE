@@ -1,2 +1,2 @@
-# Tema-5-Marketplace-de-Servi-os-Locais-Economia-Colaborativa-
-Feito por Ismael, Julia, Diego, Evanildo e  Gabriel
+# Tema-5-Marketplace de Serviços Locais - Economia Colaborativa
+Feito por Ismael, Júlia, Diego, Evanildo e  Gabriel
